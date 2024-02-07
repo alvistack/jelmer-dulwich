@@ -30,3 +30,6 @@ target/
 # Files created by OSS-Fuzz when running locally
 fuzz_*.pkg.spec
 .claude/settings.local.json
+.cargo/
+vendor/
+.pybuild/
