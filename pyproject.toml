@@ -4,6 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dulwich"
+version = "0.22.0"
 description = "Python Git Library"
 readme = "README.rst"
 authors = [{name = "Jelmer Vernooij", email = "jelmer@jelmer.uk"}]
@@ -30,7 +31,6 @@ dependencies = [
     'typing_extensions;python_version<="3.7"',
     'setuptools ; python_version >= "3.12"',
 ]
-dynamic = ["version"]
 
 [project.urls]
 Homepage = "https://www.dulwich.io/"
