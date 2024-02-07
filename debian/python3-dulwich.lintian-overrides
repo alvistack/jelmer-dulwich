@@ -1,0 +1,4 @@
+python3-dulwich: copyright-without-copyright-notice
+python3-dulwich: initial-upload-closes-no-bugs
+python3-dulwich: no-manual-page
+python3-dulwich: zero-byte-file-in-doc-directory
