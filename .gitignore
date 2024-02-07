@@ -27,3 +27,6 @@ docs/api/*.txt
 dulwich.dist-info
 .stestr
 target/
+.cargo/
+vendor/
+.pybuild/
