@@ -4,10 +4,10 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dulwich"
+version = "0.23.0"
 description = "Python Git Library"
 readme = "README.rst"
 authors = [{name = "Jelmer Vernooij", email = "jelmer@jelmer.uk"}]
-license = "Apache-2.0 OR GPL-2.0-or-later"
 keywords = ["vcs", "git"]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -26,8 +26,6 @@ requires-python = ">=3.9"
 dependencies = [
     "urllib3>=1.25",
 ]
-dynamic = ["version"]
-license-files = ["COPYING"]
 
 [project.urls]
 Homepage = "https://www.dulwich.io/"
