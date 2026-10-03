@@ -1,0 +1,5 @@
+python-dulwich source: file-without-copyright-information
+python-dulwich source: no-debian-changes
+python-dulwich source: source-contains-prebuilt-windows-binary
+python-dulwich source: source-is-missing
+python-dulwich source: source-package-encodes-python-version
