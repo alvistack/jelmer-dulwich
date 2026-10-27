@@ -1,0 +1,5 @@
+python-dulwich (100:1.2.20-1) UNRELEASED; urgency=medium
+
+  * https://github.com/jelmer/dulwich/releases/tag/dulwich-1.2.20
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 27 Oct 2026 12:48:29 +0800
